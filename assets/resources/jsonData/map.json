@@ -1,0 +1,20 @@
+{
+    "1": {
+        "id": 1,
+        "name": "广袤的城镇",
+        "isCopy": 0,
+        "copyNum": 0
+    },
+    "2": {
+        "id": 2,
+        "name": "偏僻的郊区",
+        "isCopy": 0,
+        "copyNum": 0
+    },
+    "3": {
+        "id": 3,
+        "name": "恶魔的巢穴",
+        "isCopy": 1,
+        "copyNum": 2
+    }
+}
